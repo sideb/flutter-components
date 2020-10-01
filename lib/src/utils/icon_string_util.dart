@@ -5,6 +5,7 @@ final _icons = <String, IconData>{
   'accessibility': Icons.accessibility,
   'folder_open': Icons.folder_open,
   'keyboard_arrow_right': Icons.keyboard_arrow_right,
+  'donut_large': Icons.donut_large,
 };
 
 Icon getIcon(String iconName) {
